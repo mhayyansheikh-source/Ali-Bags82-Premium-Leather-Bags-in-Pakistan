@@ -11,37 +11,37 @@ export default function Footer() {
           {/* Brand Info */}
           <div className="col-lg-4 mb-4 mb-lg-0">
             <h4 className="fw-bold mb-4 gradient-text-gold d-inline-block">Ali Bags82</h4>
-            <p className="text-muted pe-lg-4">
+            <p className="text-light pe-lg-4">
               Premium leather craftsmanship straight to your doorstep. We specialize in high-quality, genuine leather bags and accessories for the modern professional in Pakistan.
             </p>
           </div>
 
           {/* Quick Links */}
           <div className="col-md-4 col-lg-2 mb-4 mb-md-0">
-            <h6 className="fw-bold mb-4 text-uppercase tracking-wider">Quick Links</h6>
+            <h6 className="fw-bold mb-4 text-uppercase tracking-wider text-white">Quick Links</h6>
             <ul className="list-unstyled">
-              <li className="mb-2"><Link href="/" className="text-muted text-decoration-none hover-white transition">Home</Link></li>
-              <li className="mb-2"><Link href="#about" className="text-muted text-decoration-none hover-white transition">About Us</Link></li>
-              <li className="mb-2"><Link href="#collections" className="text-muted text-decoration-none hover-white transition">Collections</Link></li>
-              <li className="mb-2"><Link href="#" className="text-muted text-decoration-none hover-white transition">Testimonials</Link></li>
+              <li className="mb-2"><Link href="/" className="text-light text-decoration-none hover-white transition">Home</Link></li>
+              <li className="mb-2"><Link href="#about" className="text-light text-decoration-none hover-white transition">About Us</Link></li>
+              <li className="mb-2"><Link href="#collections" className="text-light text-decoration-none hover-white transition">Collections</Link></li>
+              <li className="mb-2"><Link href="#" className="text-light text-decoration-none hover-white transition">Testimonials</Link></li>
             </ul>
           </div>
 
           {/* Customer Service */}
           <div className="col-md-4 col-lg-3 mb-4 mb-md-0">
-            <h6 className="fw-bold mb-4 text-uppercase tracking-wider">Customer Care</h6>
+            <h6 className="fw-bold mb-4 text-uppercase tracking-wider text-white">Customer Care</h6>
             <ul className="list-unstyled">
-              <li className="mb-2"><Link href="#" className="text-muted text-decoration-none hover-white transition">Contact Us</Link></li>
-              <li className="mb-2"><Link href="#" className="text-muted text-decoration-none hover-white transition">Shipping Policy</Link></li>
-              <li className="mb-2"><Link href="#" className="text-muted text-decoration-none hover-white transition">Returns & Exchanges</Link></li>
-              <li className="mb-2"><Link href="#" className="text-muted text-decoration-none hover-white transition">FAQs</Link></li>
+              <li className="mb-2"><Link href="#" className="text-light text-decoration-none hover-white transition">Contact Us</Link></li>
+              <li className="mb-2"><Link href="#" className="text-light text-decoration-none hover-white transition">Shipping Policy</Link></li>
+              <li className="mb-2"><Link href="#" className="text-light text-decoration-none hover-white transition">Returns & Exchanges</Link></li>
+              <li className="mb-2"><Link href="#" className="text-light text-decoration-none hover-white transition">FAQs</Link></li>
             </ul>
           </div>
 
           {/* Contact Info */}
           <div className="col-md-4 col-lg-3">
-            <h6 className="fw-bold mb-4 text-uppercase tracking-wider">Get in Touch</h6>
-            <ul className="list-unstyled text-muted">
+            <h6 className="fw-bold mb-4 text-uppercase tracking-wider text-white">Get in Touch</h6>
+            <ul className="list-unstyled text-light">
               <li className="mb-3 d-flex">
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" className="bi bi-geo-alt me-3 flex-shrink-0" viewBox="0 0 16 16"><path d="M12.166 8.94c-.524 1.062-1.234 2.12-1.96 3.07A31.493 31.493 0 0 1 8 14.58a31.481 31.481 0 0 1-2.206-2.57c-.726-.95-1.436-2.008-1.96-3.07C3.304 7.867 3 6.862 3 6a5 5 0 0 1 10 0c0 .862-.305 1.867-.834 2.94zM8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10z"/><path d="M8 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
                 <span>Leather Market Sector, Karachi, Pakistan</span>
@@ -59,13 +59,13 @@ export default function Footer() {
         </div>
 
         <div className="border-top border-secondary pt-4 d-flex flex-column flex-md-row justify-content-between align-items-center">
-          <p className="text-muted small mb-0">
+          <p className="text-light small mb-0">
             &copy; {new Date().getFullYear()} Ali Bags82. All rights reserved.
           </p>
           <div className="mt-3 mt-md-0 d-flex gap-3">
-            <span className="text-muted small">Powered by Next.js</span>
-            <span className="text-muted small px-2">|</span>
-            <span className="text-muted small">Designed for Pakistan</span>
+            <span className="text-light small">Powered by Next.js</span>
+            <span className="text-light small px-2">|</span>
+            <span className="text-light small">Designed for Pakistan</span>
           </div>
         </div>
       </div>

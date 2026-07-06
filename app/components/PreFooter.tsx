@@ -26,7 +26,7 @@ export default function PreFooter() {
           className="max-w-2xl mx-auto"
           style={{ maxWidth: '800px' }}
         >
-          <h2 className="display-4 fw-bold mb-4">Ready to Make a Statement?</h2>
+          <h2 className="display-4 fw-bold mb-4 text-white">Ready to Make a Statement?</h2>
           <p className="lead mb-5 text-light fs-4">
             Join thousands of satisfied customers across Pakistan. Customize your premium leather bag today and enjoy free Cash on Delivery.
           </p>

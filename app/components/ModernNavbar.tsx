@@ -34,7 +34,16 @@ export default function ModernNavbar() {
         <div className={`collapse navbar-collapse justify-content-end ${isOpen ? 'show mt-3 bg-premium-dark p-3 rounded' : ''}`}>
           <ul className="navbar-nav mb-2 mb-lg-0 align-items-center gap-3">
             <li className="nav-item">
-              <Link href="#collections" className="nav-link fw-semibold text-light px-3 hover-opacity">Collections</Link>
+              <Link href="#handbags" className="nav-link fw-semibold text-light px-3 hover-opacity">Handbags</Link>
+            </li>
+            <li className="nav-item">
+              <Link href="#office" className="nav-link fw-semibold text-light px-3 hover-opacity">Office Bags</Link>
+            </li>
+            <li className="nav-item">
+              <Link href="#travel" className="nav-link fw-semibold text-light px-3 hover-opacity">Travel Bags</Link>
+            </li>
+            <li className="nav-item">
+              <Link href="#accessories" className="nav-link fw-semibold text-light px-3 hover-opacity">Accessories</Link>
             </li>
             <li className="nav-item">
               <Link href="#about" className="nav-link fw-semibold text-light px-3 hover-opacity">Our Craft</Link>
