@@ -144,3 +144,8 @@ h1, h2, h3, h4, h5, h6 {
   border-color: var(--color-brand-accent) !important;
   box-shadow: 0 0 0 0.25rem rgba(212, 175, 55, 0.25) !important;
 }
+
+.bg-premium-dark {
+  background-color: var(--color-brand-primary) !important;
+  color: white !important;
+}

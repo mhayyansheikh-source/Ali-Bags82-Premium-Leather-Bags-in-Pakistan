@@ -5,7 +5,7 @@ import Link from 'next/link';
 
 export default function Footer() {
   return (
-    <footer className="bg-dark text-white pt-5 pb-3">
+    <footer className="bg-premium-dark pt-5 pb-3">
       <div className="container-custom">
         <div className="row mb-5">
           {/* Brand Info */}

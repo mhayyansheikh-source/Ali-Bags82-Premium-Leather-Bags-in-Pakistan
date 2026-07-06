@@ -15,7 +15,7 @@ export default function PreFooter() {
         minHeight: '60vh'
       }}
     >
-      <div className="position-absolute top-0 start-0 w-100 h-100" style={{ backgroundColor: 'rgba(0,0,0,0.75)' }}></div>
+      <div className="position-absolute top-0 start-0 w-100 h-100" style={{ backgroundColor: 'rgba(62, 39, 35, 0.85)' }}></div>
       
       <div className="container-custom position-relative z-1 text-white py-5">
         <motion.div

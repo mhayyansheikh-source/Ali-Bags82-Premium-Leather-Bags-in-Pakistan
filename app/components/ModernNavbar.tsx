@@ -12,7 +12,7 @@ export default function ModernNavbar() {
       initial={{ y: -100, opacity: 0 }}
       animate={{ y: 0, opacity: 1 }}
       transition={{ duration: 0.6, ease: "easeOut" }}
-      className="navbar navbar-expand-lg py-3 sticky-top navbar-dark bg-dark border-bottom"
+      className="navbar navbar-expand-lg py-3 sticky-top navbar-dark bg-premium-dark border-bottom"
       style={{ zIndex: 1050, borderColor: 'rgba(255, 215, 0, 0.2)' /* Subtle gold border */ }}
     >
       <div className="container-custom d-flex justify-content-between align-items-center w-100">
@@ -31,7 +31,7 @@ export default function ModernNavbar() {
           <span className="navbar-toggler-icon"></span>
         </button>
 
-        <div className={`collapse navbar-collapse justify-content-end ${isOpen ? 'show mt-3 bg-dark p-3 rounded' : ''}`}>
+        <div className={`collapse navbar-collapse justify-content-end ${isOpen ? 'show mt-3 bg-premium-dark p-3 rounded' : ''}`}>
           <ul className="navbar-nav mb-2 mb-lg-0 align-items-center gap-3">
             <li className="nav-item">
               <Link href="#collections" className="nav-link fw-semibold text-light px-3 hover-opacity">Collections</Link>
