@@ -56,17 +56,13 @@ export default function HeroSection() {
             </div>
           </div>
 
-          {/* Right Column - Funnel Form with Subtle Texture Background */}
+          {/* Right Column - Funnel Form */}
           <div 
             className="col-lg-6 d-flex align-items-center position-relative py-5"
             style={{
-              backgroundImage: 'url("https://images.unsplash.com/photo-1606820854416-439b3305ff3c?q=80&w=2070&auto=format&fit=crop")',
-              backgroundSize: 'cover',
-              backgroundPosition: 'center',
+              backgroundColor: 'var(--color-dark-surface)'
             }}
           >
-            {/* Light overlay so the form stands out but texture is visible */}
-            <div className="position-absolute top-0 start-0 w-100 h-100" style={{ backgroundColor: 'rgba(255, 255, 255, 0.4)', backdropFilter: 'blur(4px)' }}></div>
             
             <div className="position-relative w-100 px-3 px-md-5 z-1">
               <motion.div
