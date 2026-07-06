@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "Kamran Ahmed",
+    "location": "Gujranwala, Pakistan",
+    "rating": 5,
+    "text": "I bought a laptop bag for work, and it exceeds all expectations."
+  },
+  {
+    "id": 2,
+    "name": "Kamran Ali",
+    "location": "Sialkot, Pakistan",
+    "rating": 5,
+    "text": "A true testament to Pakistani craftsmanship."
+  },
+  {
+    "id": 3,
+    "name": "Tariq Dar",
+    "location": "Karachi, Pakistan",
+    "rating": 5,
+    "text": "Absolutely love the quality. The leather feels incredibly premium."
+  },
+  {
+    "id": 4,
+    "name": "Iqra Malik",
+    "location": "Karachi, Pakistan",
+    "rating": 5,
+    "text": "The packaging was premium, making it a perfect gift."
+  },
+  {
+    "id": 5,
+    "name": "Sana Ahmed",
+    "location": "Faisalabad, Pakistan",
+    "rating": 5,
+    "text": "I was skeptical ordering online, but the quality blew me away."
+  },
+  {
+    "id": 6,
+    "name": "Hira Khan",
+    "location": "Quetta, Pakistan",
+    "rating": 5,
+    "text": "Perfect for my daily commute. Fits my laptop and essentials."
+  },
+  {
+    "id": 7,
+    "name": "Imran Malik",
+    "location": "Peshawar, Pakistan",
+    "rating": 5,
+    "text": "I was skeptical ordering online, but the quality blew me away."
+  },
+  {
+    "id": 8,
+    "name": "Sara Sheikh",
+    "location": "Quetta, Pakistan",
+    "rating": 5,
+    "text": "Absolutely love the quality. The leather feels incredibly premium."
+  },
+  {
+    "id": 9,
+    "name": "Ali Ahmed",
+    "location": "Quetta, Pakistan",
+    "rating": 5,
+    "text": "Absolutely love the quality. The leather feels incredibly premium."
+  },
+  {
+    "id": 10,
+    "name": "Fahad Chaudhry",
+    "location": "Rawalpindi, Pakistan",
+    "rating": 5,
+    "text": "Perfect for my daily commute. Fits my laptop and essentials."
+  },
+  {
+    "id": 11,
+    "name": "Hira Sheikh",
+    "location": "Rawalpindi, Pakistan",
+    "rating": 5,
+    "text": "The packaging was premium, making it a perfect gift."
+  },
+  {
+    "id": 12,
+    "name": "Maha Chaudhry",
+    "location": "Lahore, Pakistan",
+    "rating": 5,
+    "text": "Perfect for my daily commute. Fits my laptop and essentials."
+  },
+  {
+    "id": 13,
+    "name": "Ali Ahmed",
+    "location": "Karachi, Pakistan",
+    "rating": 5,
+    "text": "The packaging was premium, making it a perfect gift."
+  },
+  {
+    "id": 14,
+    "name": "Sara Raja",
+    "location": "Gujranwala, Pakistan",
+    "rating": 5,
+    "text": "The stitching is flawless. Very impressed with Ali Bags82."
+  },
+  {
+    "id": 15,
+    "name": "Tariq Khan",
+    "location": "Peshawar, Pakistan",
+    "rating": 5,
+    "text": "I was skeptical ordering online, but the quality blew me away."
+  },
+  {
+    "id": 16,
+    "name": "Nida Ali",
+    "location": "Quetta, Pakistan",
+    "rating": 5,
+    "text": "Highly recommended. The leather smells genuine and ages beautifully."
+  },
+  {
+    "id": 17,
+    "name": "Ayesha Malik",
+    "location": "Multan, Pakistan",
+    "rating": 5,
+    "text": "Best investment I've made this year. Durable and stylish."
+  },
+  {
+    "id": 18,
+    "name": "Maha Ahmed",
+    "location": "Sialkot, Pakistan",
+    "rating": 5,
+    "text": "The stitching is flawless. Very impressed with Ali Bags82."
+  },
+  {
+    "id": 19,
+    "name": "Ali Ali",
+    "location": "Peshawar, Pakistan",
+    "rating": 5,
+    "text": "Best investment I've made this year. Durable and stylish."
+  },
+  {
+    "id": 20,
+    "name": "Hassan Qureshi",
+    "location": "Faisalabad, Pakistan",
+    "rating": 5,
+    "text": "I've used many bags, but this one stands out in durability."
+  },
+  {
+    "id": 21,
+    "name": "Hamza Ahmed",
+    "location": "Gujranwala, Pakistan",
+    "rating": 5,
+    "text": "I bought a laptop bag for work, and it exceeds all expectations."
+  },
+  {
+    "id": 22,
+    "name": "Omar Chaudhry",
+    "location": "Sialkot, Pakistan",
+    "rating": 5,
+    "text": "Absolutely love the quality. The leather feels incredibly premium."
+  },
+  {
+    "id": 23,
+    "name": "Kamran Baig",
+    "location": "Peshawar, Pakistan",
+    "rating": 5,
+    "text": "Highly recommended. The leather smells genuine and ages beautifully."
+  },
+  {
+    "id": 24,
+    "name": "Imran Baig",
+    "location": "Peshawar, Pakistan",
+    "rating": 5,
+    "text": "Beautiful design! I'm getting compliments everywhere I go."
+  },
+  {
+    "id": 25,
+    "name": "Omar Malik",
+    "location": "Karachi, Pakistan",
+    "rating": 5,
+    "text": "Worth every rupee. The leather is authentic."
+  },
+  {
+    "id": 26,
+    "name": "Fatima Ali",
+    "location": "Karachi, Pakistan",
+    "rating": 5,
+    "text": "Beautiful design! I'm getting compliments everywhere I go."
+  },
+  {
+    "id": 27,
+    "name": "Tariq Qureshi",
+    "location": "Islamabad, Pakistan",
+    "rating": 5,
+    "text": "I've used many bags, but this one stands out in durability."
+  },
+  {
+    "id": 28,
+    "name": "Hassan Ahmed",
+    "location": "Faisalabad, Pakistan",
+    "rating": 5,
+    "text": "Worth every rupee. The leather is authentic."
+  },
+  {
+    "id": 29,
+    "name": "Zoya Raja",
+    "location": "Peshawar, Pakistan",
+    "rating": 5,
+    "text": "I bought a laptop bag for work, and it exceeds all expectations."
+  },
+  {
+    "id": 30,
+    "name": "Bilal Dar",
+    "location": "Gujranwala, Pakistan",
+    "rating": 5,
+    "text": "The craftsmanship is on par with international luxury brands."
+  },
+  {
+    "id": 31,
+    "name": "Imran Qureshi",
+    "location": "Sialkot, Pakistan",
+    "rating": 5,
+    "text": "I bought a laptop bag for work, and it exceeds all expectations."
+  },
+  {
+    "id": 32,
+    "name": "Fahad Khan",
+    "location": "Faisalabad, Pakistan",
+    "rating": 5,
+    "text": "I was skeptical ordering online, but the quality blew me away."
+  },
+  {
+    "id": 33,
+    "name": "Khadija Memon",
+    "location": "Faisalabad, Pakistan",
+    "rating": 5,
+    "text": "I was skeptical ordering online, but the quality blew me away."
+  },
+  {
+    "id": 34,
+    "name": "Hira Baig",
+    "location": "Lahore, Pakistan",
+    "rating": 5,
+    "text": "Excellent customer service. They customized my bag perfectly."
+  },
+  {
+    "id": 35,
+    "name": "Yasir Syed",
+    "location": "Gujranwala, Pakistan",
+    "rating": 5,
+    "text": "The stitching is flawless. Very impressed with Ali Bags82."
+  },
+  {
+    "id": 36,
+    "name": "Nida Syed",
+    "location": "Rawalpindi, Pakistan",
+    "rating": 5,
+    "text": "The stitching is flawless. Very impressed with Ali Bags82."
+  },
+  {
+    "id": 37,
+    "name": "Hamza Chaudhry",
+    "location": "Multan, Pakistan",
+    "rating": 5,
+    "text": "I've used many bags, but this one stands out in durability."
+  },
+  {
+    "id": 38,
+    "name": "Sana Sheikh",
+    "location": "Faisalabad, Pakistan",
+    "rating": 5,
+    "text": "Absolutely love the quality. The leather feels incredibly premium."
+  },
+  {
+    "id": 39,
+    "name": "Ahmed Khan",
+    "location": "Rawalpindi, Pakistan",
+    "rating": 5,
+    "text": "The packaging was premium, making it a perfect gift."
+  },
+  {
+    "id": 40,
+    "name": "Ali Raja",
+    "location": "Gujranwala, Pakistan",
+    "rating": 5,
+    "text": "I've used many bags, but this one stands out in durability."
+  },
+  {
+    "id": 41,
+    "name": "Hussain Sheikh",
+    "location": "Gujranwala, Pakistan",
+    "rating": 5,
+    "text": "Worth every rupee. The leather is authentic."
+  },
+  {
+    "id": 42,
+    "name": "Kamran Khan",
+    "location": "Faisalabad, Pakistan",
+    "rating": 5,
+    "text": "Worth every rupee. The leather is authentic."
+  },
+  {
+    "id": 43,
+    "name": "Maha Khan",
+    "location": "Peshawar, Pakistan",
+    "rating": 5,
+    "text": "Fast delivery and the cash on delivery option was very convenient."
+  },
+  {
+    "id": 44,
+    "name": "Usman Malik",
+    "location": "Multan, Pakistan",
+    "rating": 5,
+    "text": "The packaging was premium, making it a perfect gift."
+  },
+  {
+    "id": 45,
+    "name": "Bilal Ali",
+    "location": "Sialkot, Pakistan",
+    "rating": 5,
+    "text": "Perfect for my daily commute. Fits my laptop and essentials."
+  },
+  {
+    "id": 46,
+    "name": "Usman Memon",
+    "location": "Quetta, Pakistan",
+    "rating": 5,
+    "text": "Excellent customer service. They customized my bag perfectly."
+  },
+  {
+    "id": 47,
+    "name": "Hussain Malik",
+    "location": "Rawalpindi, Pakistan",
+    "rating": 5,
+    "text": "A true testament to Pakistani craftsmanship."
+  },
+  {
+    "id": 48,
+    "name": "Hassan Chaudhry",
+    "location": "Lahore, Pakistan",
+    "rating": 5,
+    "text": "The packaging was premium, making it a perfect gift."
+  },
+  {
+    "id": 49,
+    "name": "Fatima Khan",
+    "location": "Faisalabad, Pakistan",
+    "rating": 5,
+    "text": "The stitching is flawless. Very impressed with Ali Bags82."
+  },
+  {
+    "id": 50,
+    "name": "Saad Memon",
+    "location": "Islamabad, Pakistan",
+    "rating": 5,
+    "text": "Perfect for my daily commute. Fits my laptop and essentials."
+  },
+  {
+    "id": 51,
+    "name": "Zoya Raja",
+    "location": "Multan, Pakistan",
+    "rating": 5,
+    "text": "Beautiful design! I'm getting compliments everywhere I go."
+  },
+  {
+    "id": 52,
+    "name": "Ahmed Qureshi",
+    "location": "Peshawar, Pakistan",
+    "rating": 5,
+    "text": "The packaging was premium, making it a perfect gift."
+  },
+  {
+    "id": 53,
+    "name": "Kamran Syed",
+    "location": "Gujranwala, Pakistan",
+    "rating": 5,
+    "text": "Highly recommended. The leather smells genuine and ages beautifully."
+  },
+  {
+    "id": 54,
+    "name": "Omar Syed",
+    "location": "Gujranwala, Pakistan",
+    "rating": 5,
+    "text": "Excellent customer service. They customized my bag perfectly."
+  },
+  {
+    "id": 55,
+    "name": "Maha Dar",
+    "location": "Rawalpindi, Pakistan",
+    "rating": 5,
+    "text": "A true testament to Pakistani craftsmanship."
+  },
+  {
+    "id": 56,
+    "name": "Ahmed Syed",
+    "location": "Islamabad, Pakistan",
+    "rating": 5,
+    "text": "Fast delivery and the cash on delivery option was very convenient."
+  },
+  {
+    "id": 57,
+    "name": "Maha Syed",
+    "location": "Karachi, Pakistan",
+    "rating": 5,
+    "text": "The stitching is flawless. Very impressed with Ali Bags82."
+  },
+  {
+    "id": 58,
+    "name": "Zainab Qureshi",
+    "location": "Rawalpindi, Pakistan",
+    "rating": 5,
+    "text": "The stitching is flawless. Very impressed with Ali Bags82."
+  },
+  {
+    "id": 59,
+    "name": "Kamran Sheikh",
+    "location": "Rawalpindi, Pakistan",
+    "rating": 5,
+    "text": "Best investment I've made this year. Durable and stylish."
+  },
+  {
+    "id": 60,
+    "name": "Tariq Khan",
+    "location": "Islamabad, Pakistan",
+    "rating": 5,
+    "text": "Fast delivery and the cash on delivery option was very convenient."
+  },
+  {
+    "id": 61,
+    "name": "Zainab Raja",
+    "location": "Gujranwala, Pakistan",
+    "rating": 5,
+    "text": "Best investment I've made this year. Durable and stylish."
+  },
+  {
+    "id": 62,
+    "name": "Imran Baig",
+    "location": "Rawalpindi, Pakistan",
+    "rating": 5,
+    "text": "I bought a laptop bag for work, and it exceeds all expectations."
+  },
+  {
+    "id": 63,
+    "name": "Nida Baig",
+    "location": "Gujranwala, Pakistan",
+    "rating": 5,
+    "text": "The craftsmanship is on par with international luxury brands."
+  },
+  {
+    "id": 64,
+    "name": "Iqra Sheikh",
+    "location": "Sialkot, Pakistan",
+    "rating": 5,
+    "text": "Highly recommended. The leather smells genuine and ages beautifully."
+  },
+  {
+    "id": 65,
+    "name": "Zainab Ali",
+    "location": "Rawalpindi, Pakistan",
+    "rating": 5,
+    "text": "Worth every rupee. The leather is authentic."
+  },
+  {
+    "id": 66,
+    "name": "Zainab Ahmed",
+    "location": "Quetta, Pakistan",
+    "rating": 5,
+    "text": "Worth every rupee. The leather is authentic."
+  },
+  {
+    "id": 67,
+    "name": "Hussain Baig",
+    "location": "Rawalpindi, Pakistan",
+    "rating": 5,
+    "text": "I was skeptical ordering online, but the quality blew me away."
+  },
+  {
+    "id": 68,
+    "name": "Hamza Dar",
+    "location": "Sialkot, Pakistan",
+    "rating": 5,
+    "text": "I bought a laptop bag for work, and it exceeds all expectations."
+  },
+  {
+    "id": 69,
+    "name": "Sara Dar",
+    "location": "Karachi, Pakistan",
+    "rating": 5,
+    "text": "A true testament to Pakistani craftsmanship."
+  },
+  {
+    "id": 70,
+    "name": "Fatima Raja",
+    "location": "Multan, Pakistan",
+    "rating": 5,
+    "text": "Highly recommended. The leather smells genuine and ages beautifully."
+  },
+  {
+    "id": 71,
+    "name": "Fahad Dar",
+    "location": "Gujranwala, Pakistan",
+    "rating": 5,
+    "text": "Fast delivery and the cash on delivery option was very convenient."
+  },
+  {
+    "id": 72,
+    "name": "Fahad Malik",
+    "location": "Karachi, Pakistan",
+    "rating": 5,
+    "text": "I bought a laptop bag for work, and it exceeds all expectations."
+  },
+  {
+    "id": 73,
+    "name": "Sara Ahmed",
+    "location": "Lahore, Pakistan",
+    "rating": 5,
+    "text": "I've used many bags, but this one stands out in durability."
+  },
+  {
+    "id": 74,
+    "name": "Nida Chaudhry",
+    "location": "Islamabad, Pakistan",
+    "rating": 5,
+    "text": "A true testament to Pakistani craftsmanship."
+  },
+  {
+    "id": 75,
+    "name": "Tariq Sheikh",
+    "location": "Quetta, Pakistan",
+    "rating": 5,
+    "text": "I've used many bags, but this one stands out in durability."
+  },
+  {
+    "id": 76,
+    "name": "Hamza Khan",
+    "location": "Quetta, Pakistan",
+    "rating": 5,
+    "text": "I've used many bags, but this one stands out in durability."
+  },
+  {
+    "id": 77,
+    "name": "Fatima Chaudhry",
+    "location": "Quetta, Pakistan",
+    "rating": 5,
+    "text": "I've used many bags, but this one stands out in durability."
+  },
+  {
+    "id": 78,
+    "name": "Usman Qureshi",
+    "location": "Karachi, Pakistan",
+    "rating": 5,
+    "text": "The craftsmanship is on par with international luxury brands."
+  },
+  {
+    "id": 79,
+    "name": "Yasir Qureshi",
+    "location": "Quetta, Pakistan",
+    "rating": 5,
+    "text": "Absolutely love the quality. The leather feels incredibly premium."
+  },
+  {
+    "id": 80,
+    "name": "Ahmed Qureshi",
+    "location": "Rawalpindi, Pakistan",
+    "rating": 5,
+    "text": "A true testament to Pakistani craftsmanship."
+  },
+  {
+    "id": 81,
+    "name": "Fatima Ali",
+    "location": "Multan, Pakistan",
+    "rating": 5,
+    "text": "Perfect for my daily commute. Fits my laptop and essentials."
+  },
+  {
+    "id": 82,
+    "name": "Tariq Raja",
+    "location": "Quetta, Pakistan",
+    "rating": 5,
+    "text": "Fast delivery and the cash on delivery option was very convenient."
+  },
+  {
+    "id": 83,
+    "name": "Iqra Ahmed",
+    "location": "Quetta, Pakistan",
+    "rating": 5,
+    "text": "Best investment I've made this year. Durable and stylish."
+  },
+  {
+    "id": 84,
+    "name": "Tariq Qureshi",
+    "location": "Islamabad, Pakistan",
+    "rating": 5,
+    "text": "I've used many bags, but this one stands out in durability."
+  },
+  {
+    "id": 85,
+    "name": "Hussain Malik",
+    "location": "Islamabad, Pakistan",
+    "rating": 5,
+    "text": "Beautiful design! I'm getting compliments everywhere I go."
+  },
+  {
+    "id": 86,
+    "name": "Ahmed Ali",
+    "location": "Lahore, Pakistan",
+    "rating": 5,
+    "text": "I was skeptical ordering online, but the quality blew me away."
+  },
+  {
+    "id": 87,
+    "name": "Omar Dar",
+    "location": "Quetta, Pakistan",
+    "rating": 5,
+    "text": "Best investment I've made this year. Durable and stylish."
+  },
+  {
+    "id": 88,
+    "name": "Sana Memon",
+    "location": "Peshawar, Pakistan",
+    "rating": 5,
+    "text": "I bought a laptop bag for work, and it exceeds all expectations."
+  },
+  {
+    "id": 89,
+    "name": "Fahad Raja",
+    "location": "Quetta, Pakistan",
+    "rating": 5,
+    "text": "A true testament to Pakistani craftsmanship."
+  },
+  {
+    "id": 90,
+    "name": "Ayesha Khan",
+    "location": "Faisalabad, Pakistan",
+    "rating": 5,
+    "text": "I was skeptical ordering online, but the quality blew me away."
+  },
+  {
+    "id": 91,
+    "name": "Yasir Sheikh",
+    "location": "Lahore, Pakistan",
+    "rating": 5,
+    "text": "I've used many bags, but this one stands out in durability."
+  },
+  {
+    "id": 92,
+    "name": "Omar Baig",
+    "location": "Faisalabad, Pakistan",
+    "rating": 5,
+    "text": "A true testament to Pakistani craftsmanship."
+  },
+  {
+    "id": 93,
+    "name": "Zoya Qureshi",
+    "location": "Quetta, Pakistan",
+    "rating": 5,
+    "text": "The stitching is flawless. Very impressed with Ali Bags82."
+  },
+  {
+    "id": 94,
+    "name": "Ahmed Raja",
+    "location": "Karachi, Pakistan",
+    "rating": 5,
+    "text": "Fast delivery and the cash on delivery option was very convenient."
+  },
+  {
+    "id": 95,
+    "name": "Omar Ali",
+    "location": "Faisalabad, Pakistan",
+    "rating": 5,
+    "text": "Worth every rupee. The leather is authentic."
+  },
+  {
+    "id": 96,
+    "name": "Nida Ahmed",
+    "location": "Quetta, Pakistan",
+    "rating": 5,
+    "text": "Perfect for my daily commute. Fits my laptop and essentials."
+  },
+  {
+    "id": 97,
+    "name": "Omar Malik",
+    "location": "Karachi, Pakistan",
+    "rating": 5,
+    "text": "A true testament to Pakistani craftsmanship."
+  },
+  {
+    "id": 98,
+    "name": "Tariq Sheikh",
+    "location": "Quetta, Pakistan",
+    "rating": 5,
+    "text": "Highly recommended. The leather smells genuine and ages beautifully."
+  },
+  {
+    "id": 99,
+    "name": "Ayesha Ali",
+    "location": "Multan, Pakistan",
+    "rating": 5,
+    "text": "Best investment I've made this year. Durable and stylish."
+  },
+  {
+    "id": 100,
+    "name": "Saad Sheikh",
+    "location": "Rawalpindi, Pakistan",
+    "rating": 5,
+    "text": "I was skeptical ordering online, but the quality blew me away."
+  }
+]

@@ -1,6 +1,12 @@
 import type { Metadata } from 'next';
 import ModernNavbar from './components/ModernNavbar';
 import HeroSection from './components/HeroSection';
+import AboutUs from './components/AboutUs';
+import CategorySection from './components/CategorySection';
+import FeaturedProducts from './components/FeaturedProducts';
+import Testimonials from './components/Testimonials';
+import PreFooter from './components/PreFooter';
+import Footer from './components/Footer';
 
 export const metadata: Metadata = {
   title: 'Ali Bags82 | Premium Leather Bags in Pakistan',
@@ -18,7 +24,7 @@ export const metadata: Metadata = {
 
 export default function Home() {
   return (
-    <main className="min-vh-100 bg-white">
+    <main className="min-vh-100 bg-white overflow-hidden">
       <ModernNavbar />
       
       {/* Schema Markup for Local Business (Pakistan) */}
@@ -43,14 +49,12 @@ export default function Home() {
       />
 
       <HeroSection />
-
-      {/* Placeholder for future sections */}
-      <section id="collections" className="py-5 bg-light">
-        <div className="container-custom text-center py-5">
-          <h2 className="mb-4">Our Premium Collections</h2>
-          <p className="text-muted">Coming soon...</p>
-        </div>
-      </section>
+      <AboutUs />
+      <CategorySection />
+      <FeaturedProducts />
+      <Testimonials />
+      <PreFooter />
+      <Footer />
     </main>
   );
 }
