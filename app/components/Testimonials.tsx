@@ -24,7 +24,7 @@ export default function Testimonials() {
   if (testimonials.length === 0) return null;
 
   return (
-    <section className="section-padding overflow-hidden bg-dark text-white">
+    <section className="section-padding overflow-hidden bg-premium-dark text-white">
       <div className="container-custom text-center mb-5">
         <motion.div
           initial={{ opacity: 0, y: -20 }}
@@ -33,7 +33,7 @@ export default function Testimonials() {
           transition={{ duration: 0.6 }}
         >
           <span className="text-warning text-uppercase tracking-wider small fw-bold">Trusted by Thousands</span>
-          <h2 className="display-6 fw-bold mt-2">What Our Customers Say</h2>
+          <h2 className="display-6 fw-bold mt-2 text-white">What Our Customers Say</h2>
         </motion.div>
       </div>
 
@@ -46,7 +46,7 @@ export default function Testimonials() {
             transition={{
               repeat: Infinity,
               ease: "linear",
-              duration: 80 // Adjust speed based on array size
+              duration: 150 // Slower speed (was 80)
             }}
             style={{ width: "fit-content" }}
           >
